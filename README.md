@@ -2,6 +2,22 @@
 
 ## Project Title: E commerce sales Analysis
 
+[Project Overview](#project-overview)
+
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](data-visualization)
+
 ### Project Overview
 
 
@@ -34,3 +50,9 @@ This whwere we include some basic lines of code or queries or even some of the D
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+
+### Data Visualization
+
+|Headig1|Heading2|Heading3|
+|-------|--------|--------|
+|Table1 |Table2  |Table3  |
