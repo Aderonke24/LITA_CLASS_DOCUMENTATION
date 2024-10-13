@@ -47,7 +47,7 @@ The primary data source of Data  here is Internationalbreweries.csv
 
 
 ### Data Analysis
-This where we include some basic lines of code or queries or even some of the DAX expressions used during analysis;
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during analysis;
 ```SQL
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
